@@ -1,0 +1,49 @@
+﻿body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #5781ac, #d5dfea);
+  height: 100vh;
+}
+
+div .father
+{
+  box-shadow: 0 4px 8px rgba(0, 0, 10, 0.2);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(46, 98, 152, 0.3);
+  margin: 0 auto;
+  width: 100%;
+ 
+}
+
+input
+{
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button
+{
+  background-color: 	#982e62;
+  width: 100%;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+     
+}
+
+h2
+{
+  color: #fff;
+  font-size: 30px;
+}
